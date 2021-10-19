@@ -5,7 +5,7 @@ Developed a website for latest job openings for fresher and experienced professi
 
 Freshlance helps jobseeker to find latest jobs in accordance with the qualification in all possible fields like Private, Engineering, IT, Bank, etc. As a job portal, we help freshers to find the best job opportunities in their respective fields of expertise. 
 
-Freshlance provide :
+Freshlance provides :
 - Internships
 - Job Opportunities
 - Certifications
